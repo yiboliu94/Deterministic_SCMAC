@@ -5,7 +5,7 @@
 // 
 // Create Date:    
 // Design Name: 
-// Module Name:    MAIN 
+// Module Name:    MAIN module of SC_SUM.
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
