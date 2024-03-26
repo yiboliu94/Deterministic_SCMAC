@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date:    18:00:11 12/03/2020 
+// Create Date:    
 // Design Name: 
 // Module Name:    LFSR_2 
 // Project Name: 
