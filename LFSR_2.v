@@ -21,7 +21,7 @@
 module LFSR_2
 (
 	input clk,
-	//input rst,
+	input rst,
 	input [6:0] a,
 	output reg [6:0] a_rn = 7'd0
 );
